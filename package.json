@@ -14,9 +14,11 @@
   "homepage": "",
   "license": "MIT",
   "dependencies": {
-    "refast": "latest",
-    "natty-storage": "~2.0.2",
+    "jquery": "^3.2.1",
+    "localdb": "^0.2.12",
     "natty-fetch": "~2.4.2",
+    "natty-storage": "~2.0.2",
+    "refast": "latest",
     "uxcore": "latest"
   }
 }
